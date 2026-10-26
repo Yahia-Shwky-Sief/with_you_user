@@ -1,0 +1,323 @@
+{
+"withyou":"Avec vous",
+"withyous":"With you est un programme pour soutenir les réfugiés dans le monde en leur offrant une vie décente et en les aidant à avoir une vie meilleure",
+
+"unchrregistrationnumberpassportnumber":"Numéro d'enregistrement de la Commission / numéro de passeport",
+"password":"le mot de passe",
+"rememberme":"Souviens-toi de moi",
+"forgetpasswordbutton":"Mot de passe oublié?",
+"forgetpassword":"Mot de passe oublié",
+"choosecontactway":"Choisissez un moyen de vous contacter",
+"yourphonenumber":"010..9397",
+"sendemail":"Envoyer un e-mail",
+"sendsms":"Envoyer un SMS",
+"resetpassword":"réinitialiser le mot de passe",
+"confirmpassword":"Confirmez le mot de passe",
+"createaccount":"Pour créer un compte cliquez ici",
+"toregisterwithuncherclickhere":"Pour vous inscrire auprès du HCR, cliquez ici",
+"signin":"Se connecter",
+
+"signup":"S'inscrire",
+"fullname":"Nom et prénom",
+"dateofbirth":"Date de naissance",
+"day":"Jour",
+"month":"Mois",
+"year":"An",
+"gender":"Le genre",
+"male":"Mâle",
+"female":"Femelle",
+"nationality":"Nationalité",
+"homeaddress":"Adresse du domicile",
+"currentaddress":"Adresse actuelle",
+"selectcountry":"Choisissez le pays",
+"phonenumber":"Numéro de téléphone",
+"email":"E-mail",
+"username":"Nom d'utilisateur",
+
+"tips":"Des astuces",
+"governmentservices":"Services du HCR",
+"publicservices":"Services publics",
+"settings":"Réglages",
+
+
+"healthcare":"soins de santé",
+"aid":"aide",
+"jobs":"Offres d'emploi",
+"education":"éducation",
+"legaladvice":"conseils juridiques",
+"hosting":"L'héberger",
+"childprotection":"Services de protection",
+
+
+"generaladvice":"conseils généraux",
+
+
+"ambulance":"Les ambulances",
+"hospitals":"hôpitaux",
+"pharmacies":"Pharmacies",
+"psychologicalaid":"Soutien de soi",
+
+
+"trainingcenters":"centres de formation",
+"institutionaleducation":"éducation scolaire",
+"grant":"Accorder",
+
+
+"meansofcommunication":"Moyens de communication\n",
+
+
+"information":"ligne d'information: ",
+"alex":"ALEX: ",
+"hotline":"Hotline (24h/24h): ",
+"earlyeducation":"éducation précoce: ",
+"arabicenglishsomali":"arabe, anglais, somali: ",
+"arabicenglishturkish":"Arabe, anglais, Tigrinya: ",
+"alllanguages":"toutes les langues: ",
+"ambulancenumber":"Numéro d’ambulance consolidé pour la république arabe d’egypte: ",
+"thofoctober":"6 octobre: ",
+"thofoctober":"whatsapp: ",
+"alajmi":"Al Ajmi: ",
+"damiette":"DAMIETTE: ",
+"mansoura":"Mansourah: ",
+"matrouh":"MATROUH: ",
+"cairo":"Caire: ",
+"nasrcity":"Nasr ville: ",
+"ainshams":"Ain Shams: ",
+"elharam":"EL-HARAM: ",
+"complaints":"plaintes: ",
+"psychosocial":"Accompagnement psychosocial des enfants et sensibilisation des parents à la parentalité positive: ",
+"takeappointment":"prendre rendez-vous: ",
+"arabic":"arabe: ",
+"oromoandamhara":"Oromo et amharique: ",
+"tigrinya":"Tigrinya: ",
+"somali":"Somali: ",
+
+
+"stars":"stars",
+"egyptianmbulance":"égyptienne des ambulances",
+"savethechildren":"Sauver les enfants",
+"doctorswithoutborders":"Médecins sans frontières",
+"caritasegypt":"Caritas Égypte",
+"terredezoom":"Terre de Zoom",
+"unitedlawyers":"Avocats unis",
+"catholic":"secours catholique",
+"egyptrefuge":"Refuge Egypte",
+"care":"Care",
+"pstic":"Pstic",
+"egyptianfoundationforrefugees":"EFRR",
+
+
+"hospitalctime":"Dimanche - Jeudi : 9h00 - 17h00",
+"dailyexcept":"Tous les jours sauf vendredi et dimanche : 8h30 - 15h30\n",
+"psychologicalSupportctime":"Tous les jours sauf vendredi et dimanche : 8h30 - 15h30\n",
+"psychologicalSupportct":"Dimanche - Jeudi : 9h00 - 16h00\n",
+"complaintstime":"Dimanche - Jeudi : 9h00 - 17h00\n",
+"grantctime":"Dimanche - Jeudi : 8h30 - 17h00\n",
+"lawltime":"Dimanche - Jeudi : 9h00 à 18h00\n",
+"psychologicalsupportttime":"Dimanche - Jeudi : 9h00 - 17h00\n",
+"jobetime":"Tous les jours sauf vendredi et dimanche : 10h00 - 13h00\n",
+"jobctime":"Dimanche - Jeudi : 9h00 - 14h00\n",
+"sibawayh":"30 Sibawayh Al-Masry Street, près d'Anwar Al-Mufti, derrière la première unité de circulation de Nasr City\n",
+"procstreet":"7 Rue du Golf - Maadi",
+"proetime":"Dimanche - Jeudi : 10h00 - 17h00\n",
+"proestreet":"Bâtiment 2, rue Hussein Al-Mimar, intersection Mahmoud Bassiouni, troisième étage, centre-ville, Le Caire\n",
+
+
+"schoolsstreet":"38 rue du 26 juillet, place des Ambulances (Métro : Nasser)\n",
+"schoolsg":"lundi - jeudi 9:00 à 15:00 \n lignes d'information \n Arabe, anglais, oromo, amharique: ",
+
+
+"noaman":"10 Talaat Noaman Street, Raml Station, tous les jours sauf vendredi et dimanche : 8h30 - 15h30\n",
+"villa":"Villa 8/48, 8ème Arrondissement, 2ème Quartier\n",
+"villag":"Garden City : 8 rue Abdel Latif Baltia, derrière l'hôtel Four Seasons\n",
+"villan":"Nasr Ville : 15 rue Mohamed Youssef Mousa\n",
+"killo":"Kilo 21, derrière l'hôpital Asafra Ouest lundi - mercredi : 8h30 - 15h30\n",
+"imam":"Imam Muhammad Abdo Street, près de Suez Canal Street, lundi : 8h30 - 15h30\n",
+"asr":"Centre médical Asr Al-Islam, rue Al-Thanawiya, à côté de la mosquée Al-Dafrawi, lundi : 8h30 - 15h30\n",
+"property":"Propriété 81/21, District One, District One, à côté de la mosquée Al-Rashidi, du dimanche au jeudi : de 8h30 à 15h30\n",
+"grantcstreet":"Bâtiment 33, Rue 106, Jardins Maadi\n",
+"lawlstreet":"Immobilier 114, Troisième étage, Appartement 8, Rue 105, Hadayek El Maadi\n",
+"mohamed":"15 rue Mohamed Youssef Mousa, parallèle à la rue Mostafa El-Nahhas, ville de Nasr\n Lundi - vendredi : 8h30 - 15h30\n",
+"jobestreet":"5 rue Michel Lotfallah, derrière l'hôtel Marriott\n",
+"jobcstreet":"33, Rue 106, Hadayek El Maadi (Métro : Hadayek El Maadi)\n",
+"helpctime":"Du lundi au vendredi : de 8h00 à 15h30\n",
+"proetime":"Dimanche - Jeudi : 10h00 - 17h00\n",
+
+
+"anmbulancees":"Un organisme indépendant créé par la décision républicaine n ° 139 de 2009 fournit des services médicaux d’urgence de grande importance car ils concernent le sauvetage de la vie des citoyens et des étrangers en egypte.\n",
+"hospitalcs":"C'est l'une des entreprises partenaires UNHCR, qui a travaillé pour faciliter l'accès aux services de santé pour les réfugiés et les demandeurs d'asile en Égypte en coopération avec le ministère égyptien de la Santé et de la Population.\n",
+"hospitalds":"C'est l'une des entreprises partenaires du HCR, qui fournit des services de cliniques de santé.\n",
+"pilscs":"C'est l'une des entreprises partenaires UNHCR, qui fournit des services de santé primaires et distribue mensuellement des médicaments.\n",
+"psycs":"C'est l'une des entreprises partenaires du HCR qui fournit des conseils individuels et de groupe et un soutien psychosocial aux personnes ayant des besoins spéciaux et aux personnes âgées.\n",
+"psychologicalSupportts":"Elle est l'une des entreprises partenaires du HCR et fournit des services psychosociaux : gestion de cas, programmes d'éducation positive, activités récréatives à travers la protection communautaire et les centres psychosociaux.\n",
+
+
+"helpc":"C'est l'une des entreprises partenaires du HCR, qui fournit une assistance en espèces du HCR uniquement aux réfugiés et demandeurs d'asile les plus nécessiteux pendant une période de temps prédéterminée.\n",
+
+
+"jobcs":"C'est l'une des entreprises partenaires du HCR qui soutient les réfugiés et les demandeurs d'asile souhaitant créer/développer leur propre entreprise.\n",
+"jobes":"C'est l'une des entreprises partenaires du HCR qui fournit des services de subsistance en facilitant le travail rémunéré.\n",
+
+
+"lawls":"United Advocates fournit une aide juridique à tous les réfugiés et demandeurs d'asile.\n",
+
+
+"grantcs":"C'est l'une des entreprises partenaires du HCR, qui offre des bourses d'études par l'intermédiaire de la Catholic Relief Commission, qui aide à financer des opportunités d'éducation en Égypte dans les écoles publiques, privées et communautaires.\n",
+"schoolss":"Stars est l'une des entreprises partenaires du HCR, qui propose différents programmes éducatifs, notamment l'enseignement préscolaire, primaire, secondaire et secondaire utilisant le programme soudanais en anglais.\n",
+"schoolsg":"38 rue du 26 juillet, place des Ambulances (Métro : Nasser)\n Du lundi au jeudi de 9h00 à 15h00 \n Lignes d'information: \narabe, anglais, oromo, amharique: ",
+"traines":"C'est l'une des entreprises partenaires du HCR qui propose des sessions de formation professionnelle et des demandes d'emploi.\n",
+"trainls":"C'est l'une des entreprises partenaires du HCR, qui dispense des formations et des séances de sensibilisation juridique.\n",
+"trainss":"STARS est une entreprise partenaire du HCR, qui propose une gamme de cours de compétences, y compris différents niveaux d'anglais, d'arabe et d'informatique pour les réfugiés adultes et les migrants vulnérables. Plusieurs cours professionnels pour adultes sont également disponibles, y compris la couture, l'artisanat et le henné.\n",
+
+
+"germansaudihospital":"Hôpital saoudien allemand",
+"americanhospital":"Hôpital américain de Dubaï",
+"ganzourispecialized":"Hôpital spécialisé de Ganzouri",
+
+
+"prod":"MSF fournit des soins médicaux et psychologiques aux personnes victimes d'agressions sexuelles.\n",
+"prost":"STARZ fournit des services de protection de l'enfance pour les enfants et les jeunes non accompagnés et séparés, y compris les interventions d'urgence.\n",
+"proP":"pistc aide les réfugiés et les demandeurs d'asile qui risquent d'être protégés à leur fournir un logement sûr.\n",
+"pros":"Save the Children fournit de nombreux services aux enfants à risque et aux enfants à risque d'abus, de négligence et d'exploitation. Il fournit également des services aux enfants non accompagnés et séparés, y compris l'évaluation de l'intérêt supérieur de l'enfant.\n",
+
+
+"cairocountry":"Caire\n",
+"dubaicountry":"Dubai\n",
+"website":"Site Web\n",
+"location":"emplacement\n",
+
+
+"americanhospitals":"L'hôpital américain est considéré comme le plus grand hôpital de Dubaï, plus précisément dans la région de Bur Dubaï, car il abrite 143 lits, et ses responsables continuent de proposer des programmes de progrès et de développement pour accueillir le plus grand nombre possible de cas de patients.\n",
+"americanhospitalstreet":"Oud Metha - Dubaï - Emirats Arabes Unis\n",
+
+
+"germansaudihospitals":"L'allemand saoudien est l'un des plus grands hôpitaux qui fournissent ses services en Égypte, aux Émirats arabes unis, au Yémen et en Arabie saoudite.\n",
+"germansaudistreet":"Rue Youssef Tito - Nozha - Héliopolis\n",
+"germansaudistreetdubai":"Hessa Street 331 West, Al Barsha 3, sortie 36 Sheikh Zayed Road, en face de l'American School Dubai, Émirats arabes unis\n",
+
+"ganzourispecializedstreet":"63 rue Tomanbay - Place Qasr Al-Tahira - Roxy\n",
+"ganzourispecializeds":"Cet hôpital a été créé il y a plus de 37 ans au Caire, où il possède les meilleures spécialités médicales et est considéré comme le plus grand centre médical de la République arabe d'Égypte, où il se classe 2244 dans le monde.\n",
+
+
+"lifepharmacies":"Pharmacies de la vie",
+"lifepharmaciess":"Life Pharmacies a été créée à Dubaï en 1996 et est considérée comme l'une des plus grandes pharmacies de Dubaï, avec plus de 200 pharmacies dans sa chaîne.\n",
+"lifepharmaciesstreet":"Life Pharmacy - Siège social Marasi Dr - Business Bay Bay Square - Dubaï\n",
+
+"elezabypharmacies":"Pharmacies El Ezaby",
+"elezabypharmaciess":"La pharmacie El-Ezaby a débuté en 1975 et compte environ 90 succursales en Égypte.\n",
+"elezabypharmaciesstreet":"69 El Nasr, Sheraton Al Matar, El Nozha, Gouvernorat du Caire 11799",
+
+"bootspharmacies":"Bottes Pharmacies",
+"bootspharmaciess":"La chaîne de pharmacies Boots a été créée en 1849 par la famille Boots et ses succursales sont situées aux Émirats arabes unis, à Oman, au Qatar, au Koweït, à Bahreïn et au Royaume d'Arabie saoudite.\n",
+"bootspharmaciesstreet":"Dubaï Festival City - Dubaï Festival City - Dubaï",
+
+
+"orman":"Orman",
+"ormantreet":"7 Abbas El Akkad St. - Au-dessus de Koshary El Tahrir - Étage 2, Appartement 4 - Nasr City",
+
+"resala":"Resala",
+"resalastreet":"2 Zaki Rostom, Sixième District, Nasr City, Gouvernorat du Caire",
+
+"misreLkhair":"Misr ELkhair",
+"misreLkhairstreet":"9 rue Mostafa El-Nahhas après les tisserands orientaux - Nasr City - Le Caire",
+
+"misreLkhairs":"La Fondation Misr El Khair est l'une des meilleures associations caritatives, car elle apporte un grand nombre de contributions aux œuvres caritatives dans toutes les régions de l'Égypte, car elle atteint tous les gouvernorats et même les villages de la Haute-Égypte.\n",
+"ormans":"L'association Orman fournit une assistance saisonnière, y compris la distribution de viande sacrifiée, de cartons de Ramadan et de ses branches dans tous les gouvernorats d'Égypte.\n",
+"resalas":"Ils servent des millions d'Égyptiens dans environ 30 activités bénévoles, y compris les soins aux orphelins, les expositions de vêtements usagés, l'hébergement des enfants des rues et le service aux aveugles, avec une mission de plus de 60 succursales réparties dans toute l'Égypte.\n",
+
+
+"arabteccontracting":"Capriol Contractant",
+"arabteccontractingstreet":"Île d'Al Reem\n",
+"arabConstruction":"construction arabe",
+"arabConstructionstreet":"Bâtiment Arabian Construction Co Nouveau Caire, Egypte",
+"alshamscontracting":"contractante Al Shams",
+"alshamscontractingstreet":"27 Attia El-Khouly, Khader El-Tuni, Nasr City, Le Caire",
+
+
+"arabteccontractings":"Capriol est une entreprise d'entrepreneurs certifiée avec de nombreux certificats ISO, qui se distingue par sa longue expérience et son équipe professionnelle qui a supervisé plusieurs projets.\n",
+"arabConstructions":"L'Arab Construction Company a été créée au Liban par les familles Al-Murabi et Mikati, qui possédaient et dirigeaient l'entreprise jusqu'à présent. La société a actuellement son siège social à Abu Dhabi et possède des activités aux Émirats arabes unis, en Arabie saoudite, au Liban, en Égypte, en Angleterre, en Inde, en Côte d'Ivoire et au Cameroun, avec 11 bureaux et un effectif de plus de 20 000 personnes.\n",
+"alshamscontractings":"Une entreprise spécialisée dans le domaine de l'entreprise générale et implantée en Egypte depuis 1987. Il convient de mentionner que les fondateurs de l'entreprise ont une expérience dans le domaine des travaux publics depuis 1981. De la première catégorie selon la classification de l'Egyptien Fédération des entrepreneurs de la construction et du bâtiment.\n",
+
+
+"homesite":"site d'accueil",
+"jobscomwebsite":"Le site Jobs.com",
+"excavationsite":"Site de fouille",
+
+
+"excavationsites":"Tanqeeb vous permet de rechercher dans tous les postes vacants et postes vacants de tous les sites de recrutement arabes et du Moyen-Orient en un seul endroit - Tanqeeb est le plus grand moteur de recherche d'emploi dans le monde arabe.\n",
+"homesites":"Bayt.com est le plus grand site d'emploi de la région Moyen-Orient et Afrique du Nord, qui met en relation les demandeurs d'emploi avec les employeurs qui ont l'intention d'embaucher.\n",
+"jobscomwebsites":"Wzayef.com est le site d'emploi du Moyen-Orient. Parcourez des centaines d'emplois publiés quotidiennement.\n",
+
+
+"bakermckenzie":"Baker McKenzie",
+"bakermckenziestreet":"Nile City Building, North Tower, 21st Floor 2005C, Cornich El Nil, Ramlet Beaulac, Le Caire, Égypte",
+
+"alzayat":"Al-Zayat",
+"alzayatstreet":"Villa 32, 2e arrondissement, 5e zone، Gouvernorat du Caire",
+
+"adsero":"Adséro",
+"adserostreet":"1 El Gabalaya St, Al Gabalayah, Zamalek, Le Caire",
+
+
+"adseros":"L'un des meilleurs bureaux de l'annuaire des cabinets d'avocats en Egypte.\n",
+"bakermckenzies":"C'est l'un des plus grands cabinets d'avocats au monde avec sa présence dans plus de 47 pays, dont l'Égypte, le Maroc, le Qatar, l'Arabie saoudite et les Émirats arabes unis.\n",
+"alzayats":"El-Zayat International Law Firm est un cabinet d'avocats international de premier plan en Égypte.\n",
+
+
+"theunitedarabemirates":"Émirats Arabes Unis",
+"ainshams":"Université Ain Shams",
+"ainshamsstreet":"El-Khalyfa El-Mamoun Street Abbasya, Le Caire , Egypte",
+
+"theunitedarabemiratess":"Université publique créée en 1976 dans la ville d'Al Ain, c'est une université fédérale à identité arabo-islamique et source de rayonnement civilisationnel pour la pensée, la culture et la science.\n",
+"harvards":"C'est une université égyptienne, une université indépendante, à but non lucratif, multiculturelle et multidisciplinaire, et elle est considérée comme l'une des plus grandes universités qui offre une éducation distinguée en langue anglaise.\n",
+"ainshamss":"L'Université Ain Shams est une université publique et la troisième plus ancienne université égyptienne. Elle a été fondée en juillet 1950. Aujourd'hui, elle comprend 15 collèges et deux instituts supérieurs. Les frais d'études sont gratuits.\n",
+
+
+"egyptianlanguageschool":"Ecole de langue égyptienne",
+"rajakschool":"École Rajak",
+"akhnatonschools":"Écoles Akhenaton",
+"akhnatonschoolsstreet":"Axe 82, le début du Nouveau Caire, Gouvernorat du Caire, Égypte",
+
+
+"akhnatonschoolss":"Écoles de langue égyptienne d'Akhnaton (AELS) Cinquième district - Le Caire L'école d'Akhnaton a été fondée en 2002 après JC.\n",
+"egyptianlanguageschools":"L'école égyptienne des langues a été créée à El Tagamoa en 1996.\n",
+"rajakschools":"L'école Rajak a été créée en 1981, c'est l'une des plus anciennes écoles d'Égypte.\n",
+
+
+"britishcouncil":"Udemy",
+"americanuniversity":"Université Américaine",
+"americanuniversitystreet":"American University Street au Nouveau Caire, Egypte",
+"amideast":"AMIDEAST",
+
+
+"britishcouncils":"C'est une plateforme éducative en ligne qui traite de nombreux contenus, dont la programmation, la traduction, le dessin, le profit d'Internet ou la créativité en général.\n",
+"americanuniversitys":"C'est une université qui dispense des cours d'anglais du début du stade A1 à la fin du stade B2 en utilisant des ressources numériques.\n",
+"amideasts":"AMIDEAST est une importante organisation américaine à but non lucratif, fondée en 1951, qui s'occupe d'activités internationales d'éducation, de formation et de développement au Moyen-Orient et en Afrique du Nord.\n",
+
+
+"tipone":"1- Meet and communicate with local residents while on the move.\n",
+"tiptwo":"2- Beware of pickpocketing,Since there are fewer eyes on your stuff, opportunistic thieves can quickly get away with your valuables after picking them up. Invest in an anti-theft backpack, to keep your gear safe, put your money and phone in your front pockets, and don't carry all your cash when you go out.\n",
+"tipthree":"3- Play it safe by printing out multiple copies of your travel documents.Carry a few copies of your passport photos and other travel documents. You may need it in the most unexpected places to prove your credentials. It is always a good idea to keep pictures of important documents on your mobile phone.\n",
+"tipfour":"4- Carry cash with you, but only as much as you need for the day.When going to any exotic country, it's easy to want to keep all your cash on hand, but in order to protect yourself from pickpockets (or even want to spend all your money in one day), carry as much as you need.\n",
+"tipfive":"5- Pay attention to charging your phone at public charging stations. If you're out all day and your phone needs to be charged, public transit stations are great, but you have to be careful about the wires they use at those stations. Use only the charging cable, not the data cable. Data cables can put your personal information at risk depending on where it is used.\n",
+
+
+"uae":"Émirats",
+"egy":"Egypte",
+"saudiarabia":"Arabie Saoudite",
+"algeria":"Algérie",
+"noresults":"Aucun résultat trouvé,\nVeuillez utiliser un autre mot-clé",
+
+
+"changelanguage":"Changer de langue",
+"profile":"Mise à jour du compte",
+"version":"version 1.0",
+"aboutus":"À propos de nous",
+"contactus":"Contactez-nous",
+"logout":"Se déconnecter",
+
+
+"ucurrentaddress":"Ton adresse actuelle",
+"uusername":"Votre nom d'utilisateur",
+"submit":"nous faire parvenir"
+}

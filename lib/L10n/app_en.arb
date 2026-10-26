@@ -1,0 +1,318 @@
+{
+"withyou":"With You",
+"withyous":"With you is a program to support refugees in the world by providing them with a decent life and helping them to have a better life",
+
+"unchrregistrationnumberpassportnumber":"UNHCR Registration Number/Passport Number",
+"password":"Password",
+"rememberme":"Remember me",
+"forgetpasswordbutton":"Forget password?",
+"forgetpassword":"Forget password",
+"choosecontactway":"Choose a way to contact you",
+"yourphonenumber":"010..9397",
+"sendemail":"Send Email",
+"sendsms":"Send SMS",
+"resetpassword":"Reset Password",
+"confirmpassword":"Confirm Password",
+"createaccount":"To create account click here",
+"toregisterwithuncherclickhere":"To Register With UNHCR, CLICK HERE",
+"signin":"Sign In",
+
+"signup":"Sign up",
+"fullname":"Full Name",
+"dateofbirth":"Date of birth",
+"day":"Day",
+"month":"Month",
+"year":"Year",
+"gender":"Gender",
+"male":"Male",
+"female":"Female",
+"nationality":"Nationality",
+"homeaddress":"Home Address",
+"currentaddress":"Current Address",
+"selectcountry":"Select Country",
+"phonenumber":"Phone Number",
+"email":"Email",
+"username":"User Name",
+
+
+"tips":"Tips",
+"governmentservices":"UNHCR Services",
+"publicservices":"Public Services",
+"settings":"Settings",
+
+
+"healthcare":"Health Care",
+"aid":"Aid",
+"jobs":"Jobs",
+"education":"Education",
+"legaladvice":"Legal Advice",
+"hosting":"Hosting",
+"childprotection":"Protection Services",
+
+
+"generaladvice":"General Advice",
+
+
+"ambulance":"Ambulance",
+"hospitals":"Hospitals",
+"pharmacies":"Pharmacies",
+"psychologicalaid":"Psychological Aid",
+
+
+"trainingcenters":"Training Centers",
+"institutionaleducation":"school education",
+"grant":"Grant",
+
+
+"meansofcommunication":"Means of Communication\n",
+
+
+"information":"Information line: ",
+"ambulancenumber":"The unified ambulance number for the Arab Republic of Egypt: ",
+"hotline":"Hotline (24 hours a day): ",
+"thofoctober":"6th of October:",
+"whatsapp":"Whatsapp: ",
+"alex":"Alex: ",
+"alajmi":"Al Ajmi: ",
+"damiette":"Damitte:",
+"mansoura":"Mansoura: ",
+"matrouh":"Matrouh: ",
+"cairo":"Cairo: ",
+"nasrcity":"Nasr City: ",
+"ainshams":"Ain Shams: ",
+"elharam":"EL-HARAM: ",
+"complaints":"Complaints: ",
+"psychosocial":"Psychosocial support for children and raising parents' awareness of positive parenting: ",
+"earlyeducation":"Early Education: ",
+"arabicenglishsomali":"Arabic, English, Somali: ",
+"arabicenglishturkish":"Arabic, English, Tigrinya: ",
+"alllanguages":"All Languages: ",
+"takeappointment":"to make an appointment: ",
+"arabic":"Arabic: ",
+"oromoandamhara":"Oromo & Amharic: ",
+"tigrinya":"Tigrinya: ",
+"somali":"Somali: ",
+
+
+"villa":"Villa 8/48, 8th District, 2nd Neighborhood\n",
+"noaman":"10 Talaat Noaman Street, Raml Station, daily except Friday and Sunday: 8:30 - 15:30\n",
+"killo":"Kilo 21, behind Asafra Hospital West Monday - Wednesday: 8:30 - 15:30\n",
+"villag":"Garden City: 8 Abdel Latif Baltia Street, behind the Four Seasons Hotel\n",
+"villan":"Nasr City: 15 Mohamed Youssef Mousa Street\n",
+"property":"Property 81/21, District One, District One, next to Al-Rashidi Mosque, Sunday - Thursday: 8:30 - 15:30\n",
+"imam":"Imam Muhammad Abdo Street, off Suez Canal Street, Monday: 8:30 - 15:30\n",
+"asr":"Asr Al-Islam Medical Center, Al-Thanawiya Street, next to Al-Dafrawi Mosque, Monday: 8:30 - 15:30\n",
+"mohamed":"15 Mohamed Youssef Mousa Street, parallel to Mostafa El-Nahhas Street, Nasr City\n Monday - Friday: 8:30 AM - 3:30 PM\n",
+"sibawayh":"30 Sibawayh Al-Masry Street, off Anwar Al-Mufti, behind the first Nasr City traffic unit\n",
+"jobcstreet":"Building 33, Street 106, Hadyek El-Maadi\n",
+"jobestreet":"5 Michel Lotfallah Street, behind the Marriott Hotel\n",
+"lawlstreet":"Real Estate 114, Third Floor, Flat 8, Street 105, Hadayek El Maadi\n",
+"grantcstreet":"Building 33, Street 106, Maadi Gardens\n",
+"procstreet":"7 Golf Street - Maadi",
+"proestreet":"2, Hussain El-Ma’mar, off Mahmoud Bassiouny St., Downtown\n",
+
+
+"schoolsstreet":"38 26th of July Street, Ambulance Square (Metro: Nasser)\n",
+"schoolsg":"Monday - Thursday 9:00 to 15:00 \n Information lines \n Arabic, English, Oromo, Amharic: ",
+
+
+"hospitalctime":"Sunday - Thursday: 9:00 - 17:00",
+"dailyexcept":"Daily except Friday and Sunday: 8:30 - 15:30\n",
+"psychologicalSupportctime":"Daily except Friday and Sunday: 8:30 AM - 3:30 PM\n",
+"psychologicalSupportct":"Sunday - Thursday: 9:00 AM - 4:00 PM\n",
+"psychologicalsupportttime":"Sunday - Thursday: 9:00 - 17:00\n",
+"helpctime":"Monday to Friday: from 8:00 to 15:30\n",
+"jobctime":"Sunday - Thursday: 9:00 - 14:00\n",
+"jobetime":"Daily except Friday and Sunday: 10:00 - 13:00\n",
+"lawltime":"Sunday - Thursday: 9:00 to 18:00\n",
+"grantctime":"Sunday - Thursday: 8:30 - 17:00\n",
+"complaintstime":"Sunday - Thursday: 9:00 - 17:00\n",
+"proetime":"Sunday - Thursday: 10:00  – 17:00\n",
+
+
+"egyptianmbulance":"Egyptian Ambulance",
+"savethechildren":"Save the Children",
+"doctorswithoutborders":"Doctors Without Borders",
+"caritasegypt":"Caritas Egypt",
+"catholic":"Catholic Relief",
+"egyptrefuge":"Egypt Refuge",
+"terredezoom":"Terre de Zoom",
+"unitedlawyers":"United Lawyers",
+"stars":"Stars",
+"care":"Care",
+"pstic":"Pstic",
+"egyptianfoundationforrefugees":"EFRR",
+
+
+"anmbulancees":"An independent body established by Presidential Decree No. 139 of 2009, which provides urgent medical services and is of great importance because it is related to saving the lives of citizens and foreigners in Egypt.\n",
+"hospitalcs":"It is one of the partner companies of UNHCR, which worked to facilitate access to health services for refugees and asylum seekers in Egypt in cooperation with the Egyptian Ministry of Health and Population.\n",
+"hospitalds":"It is one of the partner companies of the UNHCR, which provides health clinics service.\n",
+"pilscs":"It is one of the partner companies of UNHCR, which provides primary health services and dispenses monthly medicines.\n",
+"psycs":"It is one of UNHCR's partner companies that provides individual and group counseling and psychosocial support to people with special needs and the elderly\n",
+"psychologicalSupportts":"It is one of UNHCR's partner companies and provides psychosocial services: case management, positive education programs, recreational activities through community protection and psychosocial centers.\n",
+
+
+"helpc":"It is one of UNHCR's partner companies, which provides UNHCR cash assistance only to the most needy refugees and asylum seekers for a pre-determined period of time.\n",
+
+
+"jobcs":"It is one of UNHCR's partner companies that supports refugees and asylum seekers interested in starting/expanding their own business\n",
+"jobes":"It is one of UNHCR's partner companies that provide livelihood services by facilitating paid work.\n",
+
+
+"lawls":"United Advocates provides legal aid to all refugees and asylum seekers.\n",
+
+
+"grantcs":"It is one of UNHCR's partner companies, which provides educational grants through the Catholic Relief Commission, which helps fund educational opportunities in Egypt in public, private and community schools.\n",
+"schoolss":"Stars is one of the partner companies of UNHCR, which offers different educational programs, including pre-school, primary, secondary and secondary education using the Sudanese curriculum in English.\n",
+"traines":"It is one of UNHCR's partner companies that offer vocational training sessions and job applications.\n",
+"trainls":"It is one of the partner companies of UNHCR, which provides training courses and legal awareness sessions.\n",
+"trainss":"STARS is a partner company of UNHCR, which offers a range of skills courses, including different levels of English, Arabic and IT for adult refugees and vulnerable migrants. Several professional courses for adults are also available, including sewing, handicrafts and henna.\n",
+
+
+"prod":"MSF provides medical and psychological care for people who have been sexually assaulted.\n",
+"prost":"STARZ provides child protection services for unaccompanied and separated children and youth, including emergency response.\n",
+"proP":"Pstic assists refugees and asylum seekers who are at risk of protection in providing them with safe housing.\n",
+"pros":"Save the Children provides many services to children at risk and children at risk of abuse, neglect and exploitation. It also provides services for unaccompanied and separated children including assessment of the best interests of the child.\n",
+
+
+"cairocountry":"Cairo\n",
+"dubaicountry":"Dubai\n",
+"website":"website\n",
+"location":"location\n",
+
+
+"germansaudihospital":"German Saudi",
+"germansaudistreet":"JOSEF TETO STREET - NOZHA, HELIOPOLIS\n",
+"germansaudistreetdubai":"Hessa Street 331 West, Al Barsha 3, Exit 36 Sheikh Zayed Road,Opposite of American School - Dubai - United Arab Emirates, Dubai\n",
+"germansaudihospitals":"Saudi German is one of the largest hospitals that provide its services in Egypt, the United Arab Emirates, Yemen and Saudi Arabia.\n",
+
+"americanhospital":"American Hospital",
+"americanhospitalstreet":"Oud Metha - Dubai - United Arab Emirates\n",
+"americanhospitals":"The American Hospital is considered the largest hospital in Dubai, specifically in the Bur Dubai region, as it accommodates 143 beds, and those in charge of it continue to provide programs for progress and development to accommodate the largest possible number of patients' cases.\n",
+
+"ganzourispecialized":"Ganzouri Specialized",
+"ganzourispecializedstreet":"63 Tomanbay Street - Qasr Al-Tahira Square - Roxy\n",
+"ganzourispecializeds":"This hospital was established more than 37 years ago in Cairo, where it has the best medical specialties and is considered the largest medical center in the Arab Republic of Egypt, where it ranked 2244 in the world.\n",
+
+
+"lifepharmacies":"Life Pharmacies",
+"lifepharmaciesstreet":"Life Pharmacy - Corporate Office Marasi Dr - Business Bay Bay Square - Dubai\n",
+"lifepharmaciess":"Life Pharmacies was established in Dubai in 1996, and is considered one of the largest pharmacies in Dubai, with more than 200 pharmacies in its chain.\n",
+
+"elezabypharmacies":"El Ezaby Pharmacies",
+"elezabypharmaciess":"El-Ezaby Pharmacy started in 1975, and it has about 90 branches around Egypt.\n",
+"elezabypharmaciesstreet":"69 El Nasr, Sheraton Al Matar, El Nozha, Cairo Governorate 11799",
+
+"bootspharmacies":"Boots Pharmacies",
+"bootspharmaciess":"The Boots pharmacies chain was established in 1849 by the Boots family, and its branches are located in the United Arab Emirates, Oman, Qatar, Kuwait, Bahrain and the Kingdom of Saudi Arabia.\n",
+"bootspharmaciesstreet":"Dubai Festival City - Dubai - United Arab Emirates",
+
+
+"orman":"Orman",
+"ormantreet":"7 Abbas El Akkad St. - Above Koshary El Tahrir - Floor 2, Flat 4 - Nasr City",
+"ormans":"Orman Association provides seasonal assistance, including the distribution of sacrifice meat, Ramadan cartons and its branches in all governorates of Egypt.\n",
+
+"resala":"Resala",
+"resalastreet":"2 Zaki Rostom, Sixth District, Nasr City, Cairo Governorate",
+"resalas":"They serve millions of Egyptians in about 30 voluntary activities, including orphan care, used clothing exhibitions, sheltering street children, and serving the blind, with a mission of more than 60 branches spread throughout Egypt.\n",
+
+"misreLkhair":"Misr ELkhair",
+"misreLkhairstreet":"9 Mostafa El-Nahhas Street after the Oriental Weavers - Nasr City - Cairo",
+"misreLkhairs":"The Misr El Khair Foundation is one of the best charitable associations, as it makes a large number of contributions to charitable work in all parts of Egypt, as it reaches all governorates and even the villages of Upper Egypt.\n",
+
+
+"arabteccontracting":"Capriol Contracting",
+"arabteccontractingstreet":"Al Reem Island",
+"arabConstruction":"Arab Construction",
+"arabConstructionstreet":"Arabian Construction Co Building New Cairo, Egypt",
+"alshamscontracting":"Al Shams Contracting",
+"alshamscontractingstreet":"27 Attia El-Khouly, Khader El-Tuni, Nasr City, Cairo",
+
+"arabteccontractings":"Capriol is a certified contracting company with many ISO certificates, which is distinguished by its long experience and professional team that has supervised several projects.\n",
+"arabConstructions":"The Arab Construction Company was established in Lebanon, by the Al-Murabi and Mikati families, who own and run the company until now. The company is currently headquartered in Abu Dhabi and has businesses in the UAE, Saudi Arabia, Lebanon, Egypt, England, India, Ivory Coast and Cameroon, with 11 offices and a workforce of over 20,000 people.\n",
+"alshamscontractings":"A company specialized in the field of general contracting and has been established in Egypt since 1987. It is worth mentioning that the founders of the company have experience in the field of civil work since 1981. Of the first category according to the classification of the Egyptian Federation of Construction and Building Contractors.\n",
+
+
+"homesite":"Home Site",
+"jobscomwebsite":"Jobs.com Website",
+"excavationsite":"Excavation Site",
+
+
+"excavationsites":"Tanqeeb allows you to search within all vacancies and vacancies from all Arab and Middle Eastern recruitment sites in one place - Tanqeeb is the largest employment search engine in the Arab world.\n",
+"homesites":"Bayt.com is the largest job site in the Middle East and North Africa region, which connects job seekers with employers who intend to hire.\n",
+"jobscomwebsites":"Wzayef.com is the Middle East job site. Browse hundreds of jobs posted daily.\n",
+
+
+"bakermckenzie":"Baker McKenzie",
+"bakermckenziestreet":"Nile City Building, North Tower, 21st Floor 2005C, Cornich El Nil, Ramlet Beaulac, Cairo, Egypt",
+
+"alzayat":"Al-Zayat",
+"alzayatstreet":"Villa 32, 2ND District, 5TH Zone، Cairo Governorate",
+
+"adsero":"Adsero",
+"adserostreet":"1 El Gabalaya St, Al Gabalayah, Zamalek, Cairo",
+
+
+"adseros":"One of the best offices in the directory of law firms in Egypt.\n",
+"bakermckenzies":"It is one of the largest law firms around the world with its presence in more than 47 countries, including Egypt, Morocco, Qatar, Saudi Arabia and the United Arab Emirates.\n",
+"alzayats":"El-Zayat International Law Firm is a leading international law firm in Egypt.\n",
+
+
+"theunitedarabemirates":"United Arab Emirates",
+"ainshams":"Ain-Shams University",
+"ainshamsstreet":"El-Khalyfa El-Mamoun Street Abbasya, Cairo , Eygpt",
+
+
+"theunitedarabemiratess":"A public university established in 1976 in the city of Al Ain, it is a federal university with an Arab-Islamic identity and a source of civilizational radiation for thought, culture and science.\n",
+"harvards":"It is an Egyptian university, an independent, not-for-profit, multicultural and multidisciplinary university, and it is considered one of the largest universities that provides distinguished education in the English language.\n",
+"ainshamss":"Ain Shams University is a public university and the third oldest Egyptian university. It was founded in July 1950. Today, it includes 15 colleges and two high institutes. Study costs are free.\n",
+
+
+"egyptianlanguageschool":"Egyptian language school",
+"rajakschool":"Rajak School",
+"akhnatonschools":"Akhnaton Schools",
+"akhnatonschoolsstreet":"82 Axis, the beginning of New Cairo, Cairo Governorate, Egypt",
+
+
+"akhnatonschoolss":"Akhnaton Egyptian Language Schools (AELS) Fifth District - Cairo Akhnaton School was founded in 2002 AD.\n",
+"egyptianlanguageschools":"The Egyptian School of Languages was established in El Tagamoa in 1996.\n",
+"rajakschools":"Rajak School was established in 1981, it is one of the oldest schools in Egypt.\n",
+
+
+"britishcouncil":"Udemy",
+"americanuniversity":"American University",
+"americanuniversitystreet":"AUC Ave, New Cairo,  Egypt",
+"amideast":"AMIDEAST",
+
+
+"britishcouncils":"It is an online educational platform that deals with many content, including programming, translation, drawing, profit from the Internet or creativity in general.\n",
+"americanuniversitys":"It is a university that gives English language lessons from the beginning of the A1 stage to the end of the B2 stage using digital resources.\n",
+"amideasts":"AMIDEAST is a prominent American non-profit organization, founded in 1951, that deals with international education, training and development activities in the Middle East and North Africa.\n",
+
+
+"tipone":"1- Meet and communicate with local residents while on the move.\n",
+"tiptwo":"2- Beware of pickpocketing,Since there are fewer eyes on your stuff, opportunistic thieves can quickly get away with your valuables after picking them up. Invest in an anti-theft backpack, to keep your gear safe, put your money and phone in your front pockets, and don't carry all your cash when you go out.\n",
+"tipthree":"3- Play it safe by printing out multiple copies of your travel documents.Carry a few copies of your passport photos and other travel documents. You may need it in the most unexpected places to prove your credentials. It is always a good idea to keep pictures of important documents on your mobile phone.\n",
+"tipfour":"4- Carry cash with you, but only as much as you need for the day.When going to any exotic country, it's easy to want to keep all your cash on hand, but in order to protect yourself from pickpockets (or even want to spend all your money in one day), carry as much as you need.\n",
+"tipfive":"5- Pay attention to charging your phone at public charging stations. If you're out all day and your phone needs to be charged, public transit stations are great, but you have to be careful about the wires they use at those stations. Use only the charging cable, not the data cable. Data cables can put your personal information at risk depending on where it is used.\n",
+
+
+"uae":"UAE",
+"egy":"Egypt",
+"saudiarabia":"Saudi Arabia",
+"algeria":"Algeria",
+"noresults":"No results found,\nPlease try different keyword",
+
+
+"changelanguage":"Change Language",
+"profile":"Update Profile",
+"version":"version 1.0",
+"aboutus":"About Us",
+"contactus":"Contact us",
+"logout":"Log out",
+
+
+"ucurrentaddress":"Your Current Address",
+"uusername":"Your User Name",
+"submit":"Submit"
+}
